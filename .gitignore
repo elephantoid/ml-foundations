@@ -1,0 +1,28 @@
+# Python & Environment
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS & Editor
+.DS_Store
+*.swp
+
+# Secrets & Credentials
+.env
+.env.*
+*.pem
+*.key
+*.secret*
+
+# Copyrighted textbooks / large local reading packs & personal notes
+shelf/
+notebooklm/sources/*.pdf
+notebooklm/sources/*ml-bible*.md
+notebooklm/sources/00-study-context.md
+diagnostics/
+write_self/
+weeks/*/*.jpg
+docs/ALTER_AGENTS_ORIGINAL.md
+docs/ALTER_CLAUDE_ORIGINAL.md
+
